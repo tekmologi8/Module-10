@@ -59,6 +59,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 ````
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.1.JPG?raw=true)
+![1 1](https://user-images.githubusercontent.com/95389971/144856209-16a3d22c-c99c-4679-ba6c-46dbea1f7faf.JPG)
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.1.1.JPG?raw=true)
 
