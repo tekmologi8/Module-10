@@ -61,7 +61,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.1.JPG?raw=true)
 ![1 1](https://user-images.githubusercontent.com/95389971/144856209-16a3d22c-c99c-4679-ba6c-46dbea1f7faf.JPG)
 
-![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.1.1.JPG?raw=true)
+![1 1 1](https://user-images.githubusercontent.com/95389971/144856472-e7e5fdac-4d38-4e46-9a86-da933405f89d.JPG)
+
 
 
 
@@ -107,8 +108,10 @@ hemisphere_image_urls = []
 ````
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.3.JPG?raw=true)
+![1 3](https://user-images.githubusercontent.com/95389971/144856725-7cdc1831-1c13-46a7-ad81-f1cb6dfc4052.JPG)
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.3.1.JPG?raw=true)
+![1 3 1](https://user-images.githubusercontent.com/95389971/144856749-48b8ef97-53f8-4cb9-9081-155d00411197.JPG)
 
 
 
