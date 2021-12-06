@@ -58,7 +58,6 @@ from bs4 import BeautifulSoup as soup
 from webdriver_manager.chrome import ChromeDriverManager
 ````
 
-![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.1.JPG?raw=true)
 ![1 1](https://user-images.githubusercontent.com/95389971/144856209-16a3d22c-c99c-4679-ba6c-46dbea1f7faf.JPG)
 
 ![1 1 1](https://user-images.githubusercontent.com/95389971/144856472-e7e5fdac-4d38-4e46-9a86-da933405f89d.JPG)
@@ -107,10 +106,8 @@ browser.visit(url)
 hemisphere_image_urls = []
 ````
 
-![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.3.JPG?raw=true)
 ![1 3](https://user-images.githubusercontent.com/95389971/144856725-7cdc1831-1c13-46a7-ad81-f1cb6dfc4052.JPG)
 
-![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.3.1.JPG?raw=true)
 ![1 3 1](https://user-images.githubusercontent.com/95389971/144856749-48b8ef97-53f8-4cb9-9081-155d00411197.JPG)
 
 
@@ -157,19 +154,23 @@ hemisphere_image_urls
 **Cerberus Hemisphere Enhanced**
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.4.1.JPG?raw=true)
+![1 4 1](https://user-images.githubusercontent.com/95389971/144857248-db680939-d293-4f99-9c9c-d6d395c6d173.JPG)
 
 **Schiaparelli Hemisphere Enhanced**
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.4.2.JPG?raw=true)
+![1 4 2](https://user-images.githubusercontent.com/95389971/144857261-5fc3f32c-9be3-4cf1-92b8-c9becb8a33ca.JPG)
 
 **Syrtis Major Hemisphere Enhanced**
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.4.3.JPG?raw=true)
+![1 4 3](https://user-images.githubusercontent.com/95389971/144857285-ee2a16a7-c1c5-453f-b2ef-c6efadc83e8a.JPG)
 
 **Valles Marineris Hemisphere Enhanced**
 
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/1.4.4.JPG?raw=true)
 
+![1 4 4](https://user-images.githubusercontent.com/95389971/144857301-c2b10b4b-5a19-4d11-9c6c-13eddc55586e.JPG)
 
 
 
@@ -539,12 +540,15 @@ For this part of the Challenge, update your web app to make it mobile-responsive
 
 > 1st Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/MP.JPG?raw=true)
+![MP](https://user-images.githubusercontent.com/95389971/144857942-ba5626fa-2afb-46a1-b536-3512db956165.JPG)
 
 > 2nd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/MP1.JPG?raw=true)
+![MP1](https://user-images.githubusercontent.com/95389971/144857959-a7fa8387-e285-4f2a-a507-d5339d21b8e7.JPG)
 
 > 3rd Page
-![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/MP2.JPG?raw=true)
+
+![MP2](https://user-images.githubusercontent.com/95389971/144858066-121c861f-7837-4482-b349-b9cf5b5d2533.JPG)
 
 
 
@@ -555,13 +559,16 @@ For this part of the Challenge, update your web app to make it mobile-responsive
 
 > 2nd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.1.1.JPG?raw=true)
+![3 1 1](https://user-images.githubusercontent.com/95389971/144857612-9db30b63-777b-46a8-a6b2-fefd46e5eca1.JPG)
 
 > 3rd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.1.2.JPG?raw=true)
+![3 1 2](https://user-images.githubusercontent.com/95389971/144857652-0733ff3d-487d-40aa-b0b2-1d2eb4027f8b.JPG)
 
 > 4rd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.1.3.JPG?raw=true)
-    
+![3 1 3](https://user-images.githubusercontent.com/95389971/144857670-7f7c2fc0-335c-4c09-b42b-f8db54ee77b4.JPG)
+
 
 **iPad Pro - Tablet View**
 
@@ -570,29 +577,36 @@ For this part of the Challenge, update your web app to make it mobile-responsive
 
 > 2nd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.2.1.JPG?raw=true)
+![3 2 1](https://user-images.githubusercontent.com/95389971/144857727-070ea583-4f8b-4c6a-9ba6-d25a203d4aff.JPG)
 
 **Flip Tablet**
 
 > 1st Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.2.2.JPG?raw=true)
+![3 2 2](https://user-images.githubusercontent.com/95389971/144857750-7daf42e9-26e7-4275-aa73-757680cc0dc0.JPG)
 
 > 2nd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.2.3.JPG?raw=true)
+![3 2 3](https://user-images.githubusercontent.com/95389971/144857758-32606ee0-a080-414a-9368-0b65f382f238.JPG)
 
 
 **Galaxy S5 - Mobile View**
 
 > 1st Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.3.JPG?raw=true)
+![3 3](https://user-images.githubusercontent.com/95389971/144857821-08ce18cd-a2af-449e-b14a-432886cb933e.JPG)
 
 > 2nd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.3.1.JPG?raw=true)
+![3 3 1](https://user-images.githubusercontent.com/95389971/144857859-ac602d37-0f9a-46e3-9b36-54fb7480987d.JPG)
 
 > 3rd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.3.2.JPG?raw=true)
+![3 3 2](https://user-images.githubusercontent.com/95389971/144857873-70f6d079-7eed-4d8d-890f-0400397adb2f.JPG)
 
 > 4rd Page
 ![name-of-you-image](https://github.com/EdnaOkundi/Mission-to-Mars/blob/main/Resources/Images/3.3.3.JPG?raw=true)
+![3 3 3](https://user-images.githubusercontent.com/95389971/144857893-c3c4783c-5ff1-4403-bcc7-ab6c4cd6e947.JPG)
 
 
 
